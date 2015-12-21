@@ -9,6 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "JP Wesselink <jp@sytac.io>",
+  "author": "JP Wesselink <jpwesselink@gmail.com>",
   "license": "MIT"
 }
